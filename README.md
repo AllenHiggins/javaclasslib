@@ -1,4 +1,4 @@
-# javaclasslib
+# Java classlib
 class lib in java with unit testing
 
 # MaxMin
