@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b53c020-391d-458d-83ae-d70ce9c683cd" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/NotDivTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/NotDivTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lib$NotDivTests.ic" NAME="NotDivTests Coverage Results" MODIFIED="1531051233403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lib$All_in_lib.ic" NAME="All in lib Coverage Results" MODIFIED="1531052254273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$MaxMInTest.ic" NAME="MaxMInTest Coverage Results" MODIFIED="1530968709021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
@@ -30,20 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotDivTests.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="NotDivTests.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="83" column="51" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="51" />
+            <state relative-caret-position="100">
+              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,9 +70,9 @@
         <option value="$PROJECT_DIR$/src/com/company/MaxMIn.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Test/MaxMInTest.java" />
-        <option value="$PROJECT_DIR$/Test/NotDivTests.java" />
         <option value="$PROJECT_DIR$/src/com/company/NotDiv.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/Test/NotDivTests.java" />
       </list>
     </option>
   </component>
@@ -137,13 +138,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.NotDivTests">
+  <component name="RunManager" selected="JUnit.All in lib">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="lib" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+    </configuration>
+    <configuration name="All in lib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lib" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="NotDivTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
@@ -179,23 +197,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="NotDivTests.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lib" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
-      <option name="METHOD_NAME" value="Test6" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration name="NotDivTests.Test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -216,17 +217,17 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.NotDivTests.Test3" />
-      <item itemvalue="JUnit.NotDivTests.Test6" />
       <item itemvalue="JUnit.NotDivTests" />
       <item itemvalue="JUnit.NotDivTests.Test7" />
+      <item itemvalue="JUnit.All in lib" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in lib" />
         <item itemvalue="JUnit.NotDivTests" />
         <item itemvalue="JUnit.NotDivTests.Test7" />
         <item itemvalue="JUnit.NotDivTests.Test3" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.NotDivTests.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -244,12 +245,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NotDivTests - 2018.07.08 at 12h 57m 20s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 12h 57m 46s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="NotDivTests - 2018.07.08 at 12h 58m 17s.xml">
       <configuration name="NotDivTests" configurationId="JUnit" />
     </history-entry>
@@ -274,6 +269,12 @@
     <history-entry file="NotDivTests - 2018.07.08 at 13h 12m 44s.xml">
       <configuration name="NotDivTests" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_lib - 2018.07.08 at 13h 16m 55s.xml">
+      <configuration name="All in lib" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_lib - 2018.07.08 at 13h 17m 35s.xml">
+      <configuration name="All in lib" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -297,12 +298,12 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943013" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30889237" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36661467" />
       <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32943013" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.26365054" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26365054" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13895394" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2997658" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -414,16 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="83" column="51" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-126">
@@ -436,8 +427,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -14,7 +14,7 @@ public class NotDivTests {
     List<Integer> result;
 
     @Test
-    public void Test1(){
+    public void TestNormalExpectedList(){
 
         int[] list = {1,7,2,4};
         result = notDiv.isNotDiv(list.length,list,3);
@@ -27,7 +27,7 @@ public class NotDivTests {
     }
 
     @Test
-    public void Test2(){
+    public void TestNegitiveValues(){
         int[] list = {1,7,2,4,5,0,-1};
         result = notDiv.isNotDiv(list.length,list,3);
         List<Integer> expected = new ArrayList<Integer>();
@@ -43,7 +43,7 @@ public class NotDivTests {
     }
 
     @Test
-    public void Test5(){
+    public void TestTwo(){
         int[] list = {1,7};
         result = notDiv.isNotDiv(list.length,list,3);
         List<Integer> expected = new ArrayList<Integer>();
@@ -54,23 +54,22 @@ public class NotDivTests {
     }
 
     @Test
-    public void Test6(){
-        int[] list = {7};
+    public void ifOneElementAndIsDiv(){
+        int[] list = {6};
         result = notDiv.isNotDiv(list.length,list,3);
         List<Integer> expected = new ArrayList<Integer>();
-        expected.add(7);
         Collections.sort(expected);
         assertEquals(expected, result);
     }
 
     @Test(expected=ArithmeticException.class)
-    public void Test3(){
+    public void ifDividingByZero(){
         int[] list = {1,7,2,4,5,0,-1};
         result = notDiv.isNotDiv(list.length,list,0);
     }
 
     @Test
-    public void Test4(){
+    public void ifListHasOnlyOneElement(){
         int[] list = {7};
         result = notDiv.isNotDiv(list.length,list,3);
         List<Integer> expected = new ArrayList<Integer>();
@@ -79,7 +78,7 @@ public class NotDivTests {
     }
 
     @Test(expected = ArithmeticException.class)
-    public void Test7(){
+    public void ifListIsEmpty(){
         int[] list = {};
         result = notDiv.isNotDiv(list.length,list,3);
     }
