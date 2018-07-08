@@ -20,7 +20,7 @@ Input {1,2,3,4,5} Output: String "14 10"
 
 Max = 14, Min = 10
 
-# Not Div Class
+# Not Div Class Example
 
 Input: {1,7,4,2}
 
