@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b53c020-391d-458d-83ae-d70ce9c683cd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/MaxMin.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/MaxMInTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/MaxMInTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MaxMIn.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +15,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lib$NotDivTests.ic" NAME="NotDivTests Coverage Results" MODIFIED="1531051233403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$MaxMInTest.ic" NAME="MaxMInTest Coverage Results" MODIFIED="1530968709021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NotDiv.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            <state relative-caret-position="154">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,32 +44,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxMInTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/MaxMInTest.java">
+      <file leaf-file-name="NotDivTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="370">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="280">
+              <caret line="83" column="51" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxMin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/MaxMin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -80,17 +72,25 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/MaxMIn.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/Test/MaxMInTest.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Test/MaxMInTest.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/Test/NotDivTests.java" />
+        <option value="$PROJECT_DIR$/src/com/company/NotDiv.java" />
       </list>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1405" />
-    <option name="y" value="-4" />
-    <option name="width" value="1327" />
-    <option name="height" value="772" />
+    <option name="x" value="38" />
+    <option name="y" value="-11" />
+    <option name="width" value="1329" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -98,9 +98,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,6 +125,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -142,7 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MaxMInTest.returnMaxMinString1">
+  <component name="RunManager" selected="JUnit.NotDivTests">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="lib" />
@@ -150,12 +150,12 @@
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
     </configuration>
-    <configuration name="MaxMInTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotDivTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxMInTest" />
+      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
@@ -167,13 +167,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxMInTest.retrunMaxMinString2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotDivTests.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxMInTest" />
-      <option name="METHOD_NAME" value="retrunMaxMinString2" />
+      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
+      <option name="METHOD_NAME" value="Test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -184,13 +184,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="MaxMInTest.returnMaxMinString1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="NotDivTests.Test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MaxMInTest" />
-      <option name="METHOD_NAME" value="returnMaxMinString1" />
+      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
+      <option name="METHOD_NAME" value="Test6" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="NotDivTests.Test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lib" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
+      <option name="METHOD_NAME" value="Test7" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -203,16 +220,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.MaxMInTest.retrunMaxMinString2" />
-      <item itemvalue="JUnit.MaxMInTest" />
-      <item itemvalue="JUnit.MaxMInTest.returnMaxMinString1" />
+      <item itemvalue="JUnit.NotDivTests.Test3" />
+      <item itemvalue="JUnit.NotDivTests.Test6" />
+      <item itemvalue="JUnit.NotDivTests" />
+      <item itemvalue="JUnit.NotDivTests.Test7" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MaxMInTest.returnMaxMinString1" />
-        <item itemvalue="JUnit.MaxMInTest" />
-        <item itemvalue="JUnit.MaxMInTest.retrunMaxMinString2" />
+        <item itemvalue="JUnit.NotDivTests" />
+        <item itemvalue="JUnit.NotDivTests.Test7" />
+        <item itemvalue="JUnit.NotDivTests.Test3" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.NotDivTests.Test6" />
       </list>
     </recent_temporary>
   </component>
@@ -230,14 +249,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MaxMInTest_retrunMaxMinString2 - 2018.07.07 at 14h 04m 44s.xml">
-      <configuration name="MaxMInTest.retrunMaxMinString2" configurationId="JUnit" />
+    <history-entry file="NotDivTests - 2018.07.08 at 12h 56m 41s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxMInTest - 2018.07.07 at 14h 05m 10s.xml">
-      <configuration name="MaxMInTest" configurationId="JUnit" />
+    <history-entry file="NotDivTests - 2018.07.08 at 12h 57m 20s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="MaxMInTest_returnMaxMinString1 - 2018.07.07 at 14h 06m 47s.xml">
-      <configuration name="MaxMInTest.returnMaxMinString1" configurationId="JUnit" />
+    <history-entry file="NotDivTests - 2018.07.08 at 12h 57m 46s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests - 2018.07.08 at 12h 58m 17s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests_Test7 - 2018.07.08 at 12h 59m 21s.xml">
+      <configuration name="NotDivTests.Test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests_Test7 - 2018.07.08 at 13h 00m 00s.xml">
+      <configuration name="NotDivTests.Test7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests - 2018.07.08 at 13h 00m 34s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests - 2018.07.08 at 13h 09m 12s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests - 2018.07.08 at 13h 10m 13s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="NotDivTests - 2018.07.08 at 13h 11m 43s.xml">
+      <configuration name="NotDivTests" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -250,63 +290,111 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="-4" width="1327" height="772" extended-state="6" />
+    <frame x="38" y="-11" width="1329" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
-      <window_info anchor="bottom" id="Messages" weight="0.32917318" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32917318" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32943013" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.33073324" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23263076" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917318" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943013" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30889237" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32943013" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26365054" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13895394" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/MaxMin.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/MaxMInTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="252">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -317,6 +405,56 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/MaxMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/MaxMInTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="83" column="51" selection-start-line="83" selection-start-column="50" selection-end-line="83" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
