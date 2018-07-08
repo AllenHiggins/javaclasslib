@@ -28,8 +28,8 @@ Input for div: 3
 
 Get Subsets: 
 
-      {1,7} , {1,4} , {1,2} , {7,4} , {7,2} , {4,2}
+            {1,7}  {1,4}  {1,2}  {7,4}  {7,2}  {4,2}
 
-      Total: 8,       5,      3,      11,     9,      6  : All Mod 3 (input for div)
+      Total:  8      5      3     11      9      6   : All Mod 3 (input for div)
 
 NotDivList: {1,7,4} numbers from the list which sum is not div by 3
