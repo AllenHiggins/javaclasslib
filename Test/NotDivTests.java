@@ -1,7 +1,5 @@
 import com.company.NotDiv;
-import org.junit.Rule;
 import org.junit.Test;
-import org.junit.rules.ExpectedException;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -74,6 +72,28 @@ public class NotDivTests {
         result = notDiv.isNotDiv(list.length,list,3);
         List<Integer> expected = new ArrayList<Integer>();
         expected.add(7);
+        assertEquals(expected, result);
+    }
+
+    @Test
+    public void ifNegativeElement(){
+        int[] list = {-1,-3,-4};
+        result = notDiv.isNotDiv(list.length,list,-3);
+        List<Integer> expected = new ArrayList<Integer>();
+        expected.add(-4);
+        expected.add(-3);
+        expected.add(-1);
+        assertEquals(expected, result);
+    }
+
+    @Test
+    public void ifPosElementDivNegative(){
+        int[] list = {1,3,4};
+        result = notDiv.isNotDiv(list.length,list,-3);
+        List<Integer> expected = new ArrayList<Integer>();
+        expected.add(1);
+        expected.add(3);
+        expected.add(4);
         assertEquals(expected, result);
     }
 

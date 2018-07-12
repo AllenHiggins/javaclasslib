@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b53c020-391d-458d-83ae-d70ce9c683cd" name="Default" comment="">
+    <list default="true" id="8b53c020-391d-458d-83ae-d70ce9c683cd" name="Default" comment="= 75">
+      <change afterPath="$PROJECT_DIR$/Test/PalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/PalSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Test/NotDivTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/NotDivTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,17 +18,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lib$NotDivTests.ic" NAME="NotDivTests Coverage Results" MODIFIED="1531051233403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lib$PalTests.ic" NAME="PalTests Coverage Results" MODIFIED="1531407885201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lib$NotDivTests.ic" NAME="NotDivTests Coverage Results" MODIFIED="1531055234871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$All_in_lib.ic" NAME="All in lib Coverage Results" MODIFIED="1531052254273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$MaxMInTest.ic" NAME="MaxMInTest Coverage Results" MODIFIED="1530968709021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="NotDiv.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-126">
-              <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+            <state relative-caret-position="167">
+              <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -31,20 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <file leaf-file-name="PalSearch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/PalSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="54">
+              <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NotDivTests.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <file leaf-file-name="PalTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/PalTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+            <state relative-caret-position="63">
+              <caret line="83" column="90" selection-start-line="83" selection-start-column="90" selection-end-line="83" selection-end-column="90" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -68,11 +74,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/company/MaxMIn.java" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Test/MaxMInTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/NotDiv.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/Test/NotDivTests.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Test/PalTests.java" />
+        <option value="$PROJECT_DIR$/src/com/company/PalSearch.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
       </list>
     </option>
   </component>
@@ -94,6 +102,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,8 +132,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -139,13 +147,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.All in lib">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="lib" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-    </configuration>
     <configuration name="All in lib" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -163,13 +164,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="NotDivTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="PalTests" />
+      <option name="METHOD_NAME" value="isNotStringPalThree" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -180,13 +181,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="NotDivTests.Test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalTests.isNotStringPalThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
-      <option name="METHOD_NAME" value="Test3" />
+      <option name="MAIN_CLASS_NAME" value="PalTests" />
+      <option name="METHOD_NAME" value="isNotStringPalThree" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -197,13 +198,30 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="NotDivTests.Test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalTests.isNotStringPalTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="NotDivTests" />
-      <option name="METHOD_NAME" value="Test7" />
+      <option name="MAIN_CLASS_NAME" value="PalTests" />
+      <option name="METHOD_NAME" value="isNotStringPalTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="PalTests.isStringPalFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lib" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PalTests" />
+      <option name="METHOD_NAME" value="isStringPalFour" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -215,19 +233,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.NotDivTests.Test3" />
-      <item itemvalue="JUnit.NotDivTests" />
-      <item itemvalue="JUnit.NotDivTests.Test7" />
+      <item itemvalue="JUnit.PalTests.isStringPalFour" />
+      <item itemvalue="JUnit.PalTests.isNotStringPalThree" />
+      <item itemvalue="JUnit.PalTests.isNotStringPalTwo" />
+      <item itemvalue="JUnit.PalTests" />
       <item itemvalue="JUnit.All in lib" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in lib" />
-        <item itemvalue="JUnit.NotDivTests" />
-        <item itemvalue="JUnit.NotDivTests.Test7" />
-        <item itemvalue="JUnit.NotDivTests.Test3" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PalTests" />
+        <item itemvalue="JUnit.PalTests.isNotStringPalThree" />
+        <item itemvalue="JUnit.PalTests.isNotStringPalTwo" />
+        <item itemvalue="JUnit.PalTests.isStringPalFour" />
       </list>
     </recent_temporary>
   </component>
@@ -245,35 +263,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NotDivTests - 2018.07.08 at 12h 58m 17s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isStringPalTwo - 2018.07.12 at 15h 52m 47s.xml">
+      <configuration name="PalTests.isStringPalTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests_Test7 - 2018.07.08 at 12h 59m 21s.xml">
-      <configuration name="NotDivTests.Test7" configurationId="JUnit" />
+    <history-entry file="PalTests_isStringPalThree - 2018.07.12 at 15h 55m 17s.xml">
+      <configuration name="PalTests.isStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests_Test7 - 2018.07.08 at 13h 00m 00s.xml">
-      <configuration name="NotDivTests.Test7" configurationId="JUnit" />
+    <history-entry file="PalTests_isStringPalThree - 2018.07.12 at 15h 56m 16s.xml">
+      <configuration name="PalTests.isStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 13h 00m 34s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isStringPalFour - 2018.07.12 at 15h 59m 36s.xml">
+      <configuration name="PalTests.isStringPalFour" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 13h 09m 12s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalThree - 2018.07.12 at 16h 00m 28s.xml">
+      <configuration name="PalTests.isNotStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 13h 10m 13s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalThree - 2018.07.12 at 16h 00m 48s.xml">
+      <configuration name="PalTests.isNotStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 13h 11m 43s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalThree - 2018.07.12 at 16h 01m 10s.xml">
+      <configuration name="PalTests.isNotStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NotDivTests - 2018.07.08 at 13h 12m 44s.xml">
-      <configuration name="NotDivTests" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalThree - 2018.07.12 at 16h 01m 36s.xml">
+      <configuration name="PalTests.isNotStringPalThree" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_lib - 2018.07.08 at 13h 16m 55s.xml">
-      <configuration name="All in lib" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalTwo - 2018.07.12 at 16h 02m 12s.xml">
+      <configuration name="PalTests.isNotStringPalTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_lib - 2018.07.08 at 13h 17m 35s.xml">
-      <configuration name="All in lib" configurationId="JUnit" />
+    <history-entry file="PalTests_isNotStringPalThree - 2018.07.12 at 16h 03m 30s.xml">
+      <configuration name="PalTests.isNotStringPalThree" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -289,28 +307,28 @@
     <frame x="38" y="-11" width="1329" height="780" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Palette" order="2" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32917318" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32917318" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943013" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.36661467" />
-      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32943013" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.26365054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5975039" />
+      <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.13661203" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.056162246" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2997658" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26151446" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24980484" />
       <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -326,14 +344,127 @@
       <option name="time" value="1" />
     </breakpoint-manager>
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/PalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/PalTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/PalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="40" lean-forward="true" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="75" column="24" lean-forward="true" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -358,9 +489,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
           <caret line="39" column="21" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -375,9 +503,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -385,13 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -417,25 +535,49 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/NotDiv.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-126">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
+        <state relative-caret-position="550">
+          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/NotDivTests.java">
+    <entry file="file://$PROJECT_DIR$/Test/PalTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+        <state relative-caret-position="63">
+          <caret line="83" column="90" selection-start-line="83" selection-start-column="90" selection-end-line="83" selection-end-column="90" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/PalSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
