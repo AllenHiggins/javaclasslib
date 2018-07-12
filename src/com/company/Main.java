@@ -22,57 +22,6 @@ public class Main {
 
 
 
-        int A = 123456;
-
-        String B = Integer.toString(A);
-        char[] C = B.toCharArray();
-        int endPos = B.length()-1;
-        for (int i = 0; i <=  C.length-1; ++i){
-            if(i != C.length-1) {
-                char Temp = C[i + 1];
-                C[i + 1] = C[endPos];
-                C[endPos] = Temp;
-            }
-
-            if(i == C.length-1){
-                char Temp = C[endPos-2];
-                System.out.println("Temp: " + Temp);
-                System.out.println(C[endPos]);
-
-                C[endPos-2] = C[endPos];
-                C[endPos] = Temp;
-            }
-            System.out.println();
-            System.out.print(C[i]);
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        //int[] A = {1,3,6,4,1,2};
-        //int[] A = {1,2,3,4};
-        //int[] A = {-1,1,2,-3,4,-8};
-        //int[] A = {-1,-3,-6};
-
-       // int res = solution(A);
-     //   System.out.println("Ans:" + res);
-
-
     }
 
     public static int solution(String A, String B) {
@@ -136,36 +85,5 @@ public class Main {
         }
 
         return cardScore;
-    }
-
-    public static int solution(int[] A) {
-        // write your code in Java SE 8
-        int min = 1;
-        Arrays.sort(A);
-        List<Integer> sortA = new ArrayList<Integer>();
-
-        for (int i = 0; i <  A.length; ++i){
-            if((i < A.length-1) && (A[i] == A[i+1]) || (A[i] < 1)){
-                continue;
-            }else{
-                sortA.add(A[i]);
-           }
-        }
-
-        if(sortA.isEmpty()){
-            min = 1;
-        }else{
-            for(int i = 1; i <= sortA.size(); ++i){
-                if(sortA.indexOf(i) == -1){
-                    min = i;
-                    break;
-                }
-                if(i == sortA.size()){
-                    min = i+1;
-                }
-            }
-        }
-
-        return min;
     }
 }
