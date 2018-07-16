@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b53c020-391d-458d-83ae-d70ce9c683cd" name="Default" comment="= 75">
-      <change afterPath="$PROJECT_DIR$/Test/AngryProfessorTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/AngryProfessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/INTNumbersTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/INTNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,7 +18,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/lib$PalTests.ic" NAME="PalTests Coverage Results" MODIFIED="1531407885201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$UserInputTests.ic" NAME="UserInputTests Coverage Results" MODIFIED="1531585583595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/lib$AngryProfessorTests.ic" NAME="AngryProfessorTests Coverage Results" MODIFIED="1531777234149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/lib$AngryProfessorTests.ic" NAME="AngryProfessorTests Coverage Results" MODIFIED="1531777268147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$NotDivTests.ic" NAME="NotDivTests Coverage Results" MODIFIED="1531055234871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$All_in_lib.ic" NAME="All in lib Coverage Results" MODIFIED="1531407937489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/lib$MaxMInTest.ic" NAME="MaxMInTest Coverage Results" MODIFIED="1530968709021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -29,38 +28,54 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="36">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AngryProfessor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/AngryProfessor.java">
+      <file leaf-file-name="INTNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/INTNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+            <state relative-caret-position="320">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+              <folding>
+                <element signature="e#325#326#0" expanded="true" />
+                <element signature="e#362#363#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="218">
-                <caret line="50" column="275" selection-start-line="50" selection-start-column="275" selection-end-line="50" selection-end-column="275" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AngryProfessorTests.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/AngryProfessorTests.java">
+      <file leaf-file-name="INTNumbersTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/INTNumbersTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="429">
-              <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+            <state relative-caret-position="338">
+              <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1326#1327#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+                <element signature="e#1456#1457#0" expanded="true" />
+                <element signature="e#1536#1537#0" expanded="true" />
+                <element signature="e#1578#1579#0" expanded="true" />
+                <element signature="e#1658#1659#0" expanded="true" />
+                <element signature="e#1703#1704#0" expanded="true" />
+                <element signature="e#1783#1784#0" expanded="true" />
+                <element signature="e#1828#1829#0" expanded="true" />
+                <element signature="e#1909#1910#0" expanded="true" />
+                <element signature="e#1989#1990#0" expanded="true" />
+                <element signature="e#2070#2071#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CardGameTests.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/CardGameTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="954">
+              <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +110,13 @@
         <option value="$PROJECT_DIR$/src/com/company/UserInput.java" />
         <option value="$PROJECT_DIR$/Test/UserInputTests.java" />
         <option value="$PROJECT_DIR$/src/com/company/Folders.java" />
-        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
-        <option value="$PROJECT_DIR$/Test/AngryProfessorTests.java" />
-        <option value="$PROJECT_DIR$/src/com/company/AngryProfessor.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/com/company/AngryProfessor.java" />
+        <option value="$PROJECT_DIR$/Test/AngryProfessorTests.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Numbers.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Main.java" />
+        <option value="$PROJECT_DIR$/Test/INTNumbersTests.java" />
+        <option value="$PROJECT_DIR$/src/com/company/INTNumbers.java" />
       </list>
     </option>
   </component>
@@ -120,9 +138,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,41 +182,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AngryProfessorTests">
-    <configuration name="Folders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Folders" />
-      <module name="lib" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="AngryProfessorTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.INTNumbersTests.numbersZero">
+    <configuration name="INTNumbersTests.isDivisibleFour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AngryProfessorTests" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="AngryProfessorTests.classIsCancelledOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="lib" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AngryProfessorTests" />
-      <option name="METHOD_NAME" value="classIsCancelledOne" />
+      <option name="MAIN_CLASS_NAME" value="INTNumbersTests" />
+      <option name="METHOD_NAME" value="isDivisibleFour" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -209,13 +200,13 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="AngryProfessorTests.classIsCancelledThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="INTNumbersTests.isDivisibleSix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="AngryProfessorTests" />
-      <option name="METHOD_NAME" value="classIsCancelledThree" />
+      <option name="MAIN_CLASS_NAME" value="INTNumbersTests" />
+      <option name="METHOD_NAME" value="isDivisibleSix" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -226,14 +217,48 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="UserInputTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="INTNumbersTests.isEvenDivisible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lib" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UserInputTests" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="INTNumbersTests" />
+      <option name="METHOD_NAME" value="isEvenDivisible" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="INTNumbersTests.isEvenDivisibleTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lib" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="INTNumbersTests" />
+      <option name="METHOD_NAME" value="isEvenDivisibleTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="INTNumbersTests.numbersZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lib" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="INTNumbersTests" />
+      <option name="METHOD_NAME" value="numbersZero" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -244,19 +269,19 @@
       <patterns />
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserInputTests" />
-      <item itemvalue="Application.Folders" />
-      <item itemvalue="JUnit.AngryProfessorTests.classIsCancelledOne" />
-      <item itemvalue="JUnit.AngryProfessorTests" />
-      <item itemvalue="JUnit.AngryProfessorTests.classIsCancelledThree" />
+      <item itemvalue="JUnit.INTNumbersTests.isEvenDivisible" />
+      <item itemvalue="JUnit.INTNumbersTests.isEvenDivisibleTwo" />
+      <item itemvalue="JUnit.INTNumbersTests.isDivisibleFour" />
+      <item itemvalue="JUnit.INTNumbersTests.isDivisibleSix" />
+      <item itemvalue="JUnit.INTNumbersTests.numbersZero" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AngryProfessorTests" />
-        <item itemvalue="JUnit.AngryProfessorTests.classIsCancelledThree" />
-        <item itemvalue="JUnit.AngryProfessorTests.classIsCancelledOne" />
-        <item itemvalue="Application.Folders" />
-        <item itemvalue="JUnit.UserInputTests" />
+        <item itemvalue="JUnit.INTNumbersTests.numbersZero" />
+        <item itemvalue="JUnit.INTNumbersTests.isDivisibleSix" />
+        <item itemvalue="JUnit.INTNumbersTests.isDivisibleFour" />
+        <item itemvalue="JUnit.INTNumbersTests.isEvenDivisible" />
+        <item itemvalue="JUnit.INTNumbersTests.isEvenDivisibleTwo" />
       </list>
     </recent_temporary>
   </component>
@@ -274,35 +299,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 09m 23s.xml">
+    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 55m 45s.xml">
       <configuration name="AngryProfessorTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 11m 02s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_numbersOne - 2018.07.16 at 23h 08m 16s.xml">
+      <configuration name="INTNumbersTests.numbersOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 12m 15s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests - 2018.07.16 at 23h 13m 08s.xml">
+      <configuration name="INTNumbersTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 12m 31s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests - 2018.07.16 at 23h 14m 00s.xml">
+      <configuration name="INTNumbersTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 13m 02s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isEvenDivisible - 2018.07.16 at 23h 18m 44s.xml">
+      <configuration name="INTNumbersTests.isEvenDivisible" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 13m 40s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isEvenDivisibleTwo - 2018.07.16 at 23h 19m 13s.xml">
+      <configuration name="INTNumbersTests.isEvenDivisibleTwo" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests - 2018.07.16 at 22h 17m 55s.xml">
-      <configuration name="AngryProfessorTests" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isEvenDivisible - 2018.07.16 at 23h 19m 50s.xml">
+      <configuration name="INTNumbersTests.isEvenDivisible" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests_classIsCancelledThree - 2018.07.16 at 22h 21m 18s.xml">
-      <configuration name="AngryProfessorTests.classIsCancelledThree" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isDivisibleFour - 2018.07.16 at 23h 20m 43s.xml">
+      <configuration name="INTNumbersTests.isDivisibleFour" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests_classIsCancelledThree - 2018.07.16 at 22h 21m 47s.xml">
-      <configuration name="AngryProfessorTests.classIsCancelledThree" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isDivisibleFour - 2018.07.16 at 23h 21m 30s.xml">
+      <configuration name="INTNumbersTests.isDivisibleFour" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AngryProfessorTests_classIsCancelledThree - 2018.07.16 at 22h 23m 26s.xml">
-      <configuration name="AngryProfessorTests.classIsCancelledThree" configurationId="JUnit" />
+    <history-entry file="INTNumbersTests_isDivisibleSix - 2018.07.16 at 23h 22m 04s.xml">
+      <configuration name="INTNumbersTests.isDivisibleSix" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -326,18 +351,18 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.32943013" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30265212" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11388455" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.1700468" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.14307931" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18579236" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27166277" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24980484" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937598" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="1" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="6" side_tool="true" weight="0.19516003" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,20 +385,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Folders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="55" column="36" lean-forward="true" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
@@ -688,23 +699,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/CardGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="28" column="117" selection-start-line="28" selection-start-column="117" selection-end-line="28" selection-end-column="117" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/CardGameTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/UserInputTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="846">
@@ -729,30 +723,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/AngryProfessorTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="429">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/AngryProfessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -765,6 +735,80 @@
       <provider editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/AngryProfessorTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/CardGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="28" column="117" selection-start-line="28" selection-start-column="117" selection-end-line="28" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/AngryProfessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/CardGameTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="954">
+          <caret line="53" column="8" selection-start-line="53" selection-start-column="8" selection-end-line="53" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/INTNumbersTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="84" column="8" selection-start-line="84" selection-start-column="8" selection-end-line="84" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1326#1327#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
+            <element signature="e#1456#1457#0" expanded="true" />
+            <element signature="e#1536#1537#0" expanded="true" />
+            <element signature="e#1578#1579#0" expanded="true" />
+            <element signature="e#1658#1659#0" expanded="true" />
+            <element signature="e#1703#1704#0" expanded="true" />
+            <element signature="e#1783#1784#0" expanded="true" />
+            <element signature="e#1828#1829#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+            <element signature="e#1989#1990#0" expanded="true" />
+            <element signature="e#2070#2071#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/INTNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="e#325#326#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
