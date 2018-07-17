@@ -90,4 +90,14 @@ public class INTNumbersTests {
     public void isDivisibleSix(){
         Assert.assertEquals(false,intNumbers.numIsEvenlyDivisible(500,0));
     }
+
+
+    @Test
+    public void beautifulDaysOne(){
+        result = intNumbers.beautifulDays(20,23, 6);
+        Assert.assertEquals(2,result);
+    }
+
+
+
 }

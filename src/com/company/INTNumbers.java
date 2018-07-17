@@ -24,4 +24,20 @@ public class INTNumbers {
             throw new ArithmeticException("Cannot Divide by Zero: " + e);
         }
     }
+
+    public int beautifulDays(int i, int j, int k) {
+        int numberOfBeautifulDays = 0, startDay = i, endDay = j;
+
+        while(startDay <= endDay){
+            int rev = getReverseInt(startDay);
+            int diff = numDif(startDay, rev);
+            boolean isBeautiful = numIsEvenlyDivisible(diff, k);
+            if(isBeautiful){
+                numberOfBeautifulDays++;
+            }
+            startDay++;
+        }
+
+        return numberOfBeautifulDays;
+    }
 }

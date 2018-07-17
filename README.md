@@ -92,3 +92,40 @@ For each test case, print the word YES if the class is canceled or NO if it is n
 For the first test case, k = 3. The professor wants at least 3 students in attendance, but only 3 have arrived on time (-3 and -1) so the class is canceled.
 
 For the second test case, k = 2. The professor wants at least 2 students in attendance, and there are 2 who have arrived on time (0 and -1) so the class is not canceled.
+
+#INTNumber
+
+Implements It's A Beautiful Day Problem:
+
+###Example
+Day's from 20 - 23. 
+
+Take day 20, switch number order (02) and / by 6. If even it's a beautiful day.
+Repeat for day 21 to 23. Return the number of beautiful days.
+
+    i,j = start day to end day
+    k = number to divide into diffrence that must be even
+    
+    int i = 20, int j = 23, int k = 6
+    
+    20 -> 02
+    dif = 18
+    18 / 6 = 3
+    3 is even so count number of beautiful days ++
+    
+    Repeat for 21, 22, and 23
+    
+    return total count
+    
+    For this case count = 2
+
+###Also Imlements
+
+#####Method getReverseInt
+Swap int number order ie 201 = 102.
+
+#####Method numDif
+Return the difference between two int's ie 20 02 = 18. 
+
+#####Method numIsEvenlyDivisible
+Check if a number is evenly divisible, returns a boolean. 
